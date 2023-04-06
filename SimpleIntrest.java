@@ -1,4 +1,4 @@
-package com.HackerRank_FacePrep;
+package com.HackerRank_Problems_Clg;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;

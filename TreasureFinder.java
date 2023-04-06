@@ -1,4 +1,4 @@
-package com.HackerRank_FacePrep;
+package com.HackerRank_Problems_Clg;
 
 import java.util.Scanner;
  public class TreasureFinder {
